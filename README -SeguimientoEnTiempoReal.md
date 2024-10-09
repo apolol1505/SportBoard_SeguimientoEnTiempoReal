@@ -1,7 +1,7 @@
 Integrantes
 
-Santiago Apolo
-Pablo Lopez
-Bryan Angamarca
-Leonardo Peralta
+* Santiago Apolo
+* Pablo Lopez
+* Bryan Angamarca
+* Leonardo Peralta
 
